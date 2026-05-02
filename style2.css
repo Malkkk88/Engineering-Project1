@@ -1,0 +1,19 @@
+h1{text-align: center;}
+.title{color: rgb(158, 17, 17);}
+.name{color: rgb(165, 10, 10);}
+body{background-color: rgba(236, 232, 206, 0.993);}
+h4{color: rgb(21, 21, 167);}
+p,ul,ol,h4,a{font-size: x-large;}
+img{margin-left: 40px;margin-bottom: 20px;width: 750px;float:none}
+.button-container{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+}
+#button{
+
+    padding: 10px 30px;
+border-radius: 5px;
+}

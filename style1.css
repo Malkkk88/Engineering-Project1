@@ -1,0 +1,39 @@
+body {
+    background: url(photo_2026-04-30_01-54-06.jpg);
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+.login {
+    margin: auto;
+    width: 450px;
+    height: 450 px;
+    text-align: center;
+    margin-top: 200px;
+    color: white;
+    background:rgba (0, 0, o, 1s);
+}
+
+.login-page input {
+    width: 300px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin:8px ;
+text-align: center;
+border: none;
+}
+
+
+#button {
+    width: 300px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+
+.Gender {
+    margin: 20px;
+    font-weight: bold;
+
+}
